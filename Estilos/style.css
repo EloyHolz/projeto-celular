@@ -21,12 +21,12 @@ body{
 
 section#telefone{
     position: absolute;
-    top: 50%;
+    top: 48%;
     left: 50%;
     transform: translate(-50%,-50%);
 
-    height: 627px;
-    width: 311px;
+    height: 625px;
+    width: 312px;
 
     background: url("../Imagens/frame-iphone.png") no-repeat;
     background-attachment: fixed;
@@ -34,10 +34,10 @@ section#telefone{
 
 iframe#tela{
     position: relative;
-    top: 80px;
+    top: 81px;
     left: 22px;
-    height: 473px;
-    width: 266px;
+    height: 472px;
+    width: 268px;
 }
 
 
