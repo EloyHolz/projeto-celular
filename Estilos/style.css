@@ -40,17 +40,12 @@ iframe#tela{
     width: 269px;
 }
 
-section#redes {
-    text-align: left;
-}
-
 
 section#redes img{
     width: 50px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px black;
-    text-align: right;
     box-sizing: border-box;
 }
 
